@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Talha9110
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, Python and App Development
 - 🌱 I’m currently self-learning Web Development
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me via Email:talhasohail127@gmail.com
